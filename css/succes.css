@@ -1,0 +1,20 @@
+img{
+	float:left;
+	width:70px;
+	height:60px;
+	margin-top:15px;
+	margin-left:10px;
+	cursor: pointer;
+}	
+p{
+	color: #FFF;
+	-webkit-text-fill-color:#FFF;
+	-webkit-text-stroke:1px #000000;
+	font-family: Corbel;
+	font-size: 1.5em;
+	width:90%;
+	clear: both;
+	margin:20px auto;
+	text-align: center;
+	text-align: -webkit-center;
+}
